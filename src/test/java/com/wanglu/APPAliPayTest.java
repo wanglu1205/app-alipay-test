@@ -13,7 +13,7 @@ import com.alipay.api.response.AlipayTradeAppPayResponse;
 public class APPAliPayTest {
 
     //支付宝网关（固定）
-    private static String URL = "https://openapi.alipay.com/gateway.do01";
+    private static String URL = "https://openapi.alipay.com/gateway.do";
 
     //APPID即创建应用后生成
     private static String APP_ID = "********APP_ID*******";
